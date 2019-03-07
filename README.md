@@ -13,7 +13,7 @@ This project contains predicting unknown movie ratings using traditional collabo
 3- Yahoo Music<br/>
 
 <br/>
-#Metrics used:<br/>
+# Metrics used:<br/>
 1- Mean Absoulte Error<br/>
 2 - Mean Squared Error<br/>
 3 - Good Item Mean(GIM)<br/>
@@ -22,15 +22,15 @@ This project contains predicting unknown movie ratings using traditional collabo
 6 - Recall<br/>
 <br/>
 <br/>
-# Referenced Papers:
-1- B. Sarwar, G. Karypis, J. Konstan, and J. Riedl, ‘‘Item-based collaborative filtering recommendation
-algorithms,’’ in Proceedings of the 10th international conference on World Wide Web. ACM, 2001,
+# Referenced Papers:<br/>
+1- B. Sarwar, G. Karypis, J. Konstan, and J. Riedl, ‘‘Item-based collaborative filtering recommendation<br/>
+algorithms,’’ in Proceedings of the 10th international conference on World Wide Web. ACM, 2001,<br/>
 pp. 285–295.
 <br/><br/>
-2- J. L. Herlocker, J. A. Konstan, L. G. Terveen, and J. T. Riedl, ‘‘Evaluating collaborative filtering
-recommender systems,’’ ACM Transactions on Information Systems (TOIS), vol. 22, no. 1, pp. 5–53,
+2- J. L. Herlocker, J. A. Konstan, L. G. Terveen, and J. T. Riedl, ‘‘Evaluating collaborative filtering<br/>
+recommender systems,’’ ACM Transactions on Information Systems (TOIS), vol. 22, no. 1, pp. 5–53,<br/>
 2004.
 <br/><br/>
-3- Wang, Jun et al. “Unifying user-based and item-based collaborative filtering approaches by
-similarity fusion.” SIGIR (2006).
+3- Wang, Jun et al. “Unifying user-based and item-based collaborative filtering approaches by<br/>
+similarity fusion.” SIGIR (2006).<br/>
 <br/><br/>
