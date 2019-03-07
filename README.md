@@ -13,6 +13,7 @@ This project contains predicting unknown movie ratings using traditional collabo
 3- Yahoo Music<br/>
 
 <br/>
+
 # Metrics used:<br/>
 1- Mean Absoulte Error<br/>
 2 - Mean Squared Error<br/>
@@ -22,6 +23,7 @@ This project contains predicting unknown movie ratings using traditional collabo
 6 - Recall<br/>
 <br/>
 <br/>
+
 # Referenced Papers:<br/>
 1- B. Sarwar, G. Karypis, J. Konstan, and J. Riedl, ‘‘Item-based collaborative filtering recommendation<br/>
 algorithms,’’ in Proceedings of the 10th international conference on World Wide Web. ACM, 2001,<br/>
